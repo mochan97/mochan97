@@ -1,30 +1,11 @@
 ## Hi there 👋
 
-<!--
-**mochan97/mochan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I completed the Software Engineering Core Curriculum at 42 Wolfsburg.<br>
+I also completed a full-time Data Science degree at Master's level with OpenClassrooms.<br>
 
-Here are some ideas to get you started:
+I am interested in Data Engineering, Machine Learning, and Data Science.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I completed my Software Engineering Core Curriculum at 42 Wolfsburg.<br>
-I also completed a full time Data Science degree (Master Level) with OpenClassrooms.<br>
-
-I am interested in : Data Engineering, Machine Learning, Data Science.<br>
-The languages I work on : Python, C, C++, Matlab.<br>
-
-
-My Skills<br>
-The tool I use to code : Visual Studio Code.<br>
-The clouds I use to deploy my machine learning models and my dashboards: Azure.<br>
-
-<br>
-My Stats :
-Top Langs
+## My Skills
+The programming languages I work with are Python, C, C++, and MATLAB.<br>
+I mainly use Visual Studio Code for development.<br>
+I use Microsoft Azure to deploy machine learning models, APIs, and dashboards.<br>
