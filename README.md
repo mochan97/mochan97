@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I completed my Software Engineering Core Curriculum at 42 Wolfsburg.<br>
+I also completed a full time Data Science degree (Master Level) with OpenClassrooms.<br>
+
+I am interested in : Data Engineering, Machine Learning, Data Science.<br>
+The languages I work on : Python, C, C++, Matlab.<br>
+
+
+My Skills<br>
+The tool I use to code : Visual Studio Code.<br>
+The clouds I use to deploy my machine learning models and my dashboards: Azure.<br>
+
+<br>
+My Stats :
+Top Langs
